@@ -1,13 +1,17 @@
 # Proyecto 2 – Sistema de Gestión de Impresiones (PriorityPrint)
 
 **Materia:** Estructura de Datos
-**Grupo:** 2
+
 **Integrantes:**
 * Santaella William
-* Yanez Eduardo 
+* Yanez Eduardo
+
 **Lenguaje:** Java
+
 **Entorno:** NetBeans IDE / JDK 
+
 **Fecha:** 25/03/2026
+
 **Repositorio:** [Enlace a tu GitHub]
 
 ---
@@ -27,7 +31,7 @@ La aplicación incluye una interfaz gráfica (Java Swing) que permite:
 
 ## 🗂️ Estructura del Proyecto
 
-
+```text
 proyecto2/
 └── src/
     ├── Usuario.java              # TDA para los datos del usuario
@@ -39,6 +43,7 @@ proyecto2/
     ├── ManejoArchivos.java       # Lógica de JFileChooser y lectura de CSV
     ├── usuarios.csv              # Archivo de prueba de usuarios
     └── impresiones.csv           # Archivo de prueba de documentos
+```
 
 ## ⚙️ Requerimientos del Proyecto
 
@@ -88,7 +93,7 @@ El programa es tolerante a fallos, maneja correctamente las excepciones de lectu
 **2. Cargar datos iniciales (Archivos CSV)**
 * En la interfaz principal, utiliza el botón designado para **"Cargar Usuarios"**. Se abrirá un `JFileChooser` donde deberás seleccionar el archivo `.csv`, donde primero se debe escoger el archivo "usuario" y luego el archivo "impresiones"  con el formato requerido (`usuario, tipo`).
 * *(Opcional)* Carga los documentos de prueba si tienes un archivo configurado para ello.
-** Si desea registrar usuario, en el cuadro de arriba deberá colocar un nombre (ej. Carlos), y en el cuadro de abajo la prioridad (prioridad_baja, prioridad_media, prioridad_alta)
+* Si desea registrar usuario, en el cuadro de arriba deberá colocar un nombre (ej. Carlos), y en el cuadro de abajo la prioridad (prioridad_baja, prioridad_media, prioridad_alta)
 
 
 **3. Interacción con la Cola de Impresión**
@@ -102,4 +107,4 @@ El programa es tolerante a fallos, maneja correctamente las excepciones de lectu
 
 **5. Visualización del Montículo**
 * El sistema ofrece la vista de la cola en formato de tabla (secuencia de registros).
-* Para ver la estructura interna, navega a la pestaña o botón de **"Ver Árbol"** para visualizar el Montículo Binario representado gráficamente, comprobando que se cumplen las propiedades de orden y forma.
+
