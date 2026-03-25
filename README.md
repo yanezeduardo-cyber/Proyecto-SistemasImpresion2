@@ -27,7 +27,7 @@ La aplicación incluye una interfaz gráfica (Java Swing) que permite:
 
 ## 🗂️ Estructura del Proyecto
 
-```text
+
 proyecto2/
 └── src/
     ├── Usuario.java              # TDA para los datos del usuario
