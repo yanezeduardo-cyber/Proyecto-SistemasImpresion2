@@ -1,0 +1,3 @@
+Tesis.pdf,PDF,Andres
+Foto.jpg,Imagen,Beatriz
+Informe.docx,Word,Carlos

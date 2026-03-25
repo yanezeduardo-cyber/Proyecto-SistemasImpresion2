@@ -1,0 +1,3 @@
+Andres,prioridad_alta
+Beatriz,prioridad_media
+Carlos,prioridad_baja
