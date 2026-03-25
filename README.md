@@ -12,7 +12,7 @@
 
 **Fecha:** 25/03/2026
 
-**Repositorio:** [Enlace a tu GitHub]
+**Repositorio:** https://github.com/yanezeduardo-cyber/Proyecto-SistemasImpresion2
 
 ---
 
