@@ -1,4 +1,4 @@
-# Proyecto 2 – Sistema de Gestión de Impresiones (PriorityPrint)
+# Proyecto 2 – Sistema de Gestión de Impresiones 
 
 **Materia:** Estructura de Datos
 
